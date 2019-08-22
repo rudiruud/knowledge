@@ -9,12 +9,12 @@
 - [DevOps AI workflow](https://azure.microsoft.com/en-us/blog/breaking-the-wall-between-data-scientists-and-app-developers-with-azure-devops/)
 
 ## Architecture
-- https://www.sqlchick.com/
-
+- [SQLchick - BI architecture](https://www.sqlchick.com/)
+- [Event driven architecture](https://wso2.com/whitepapers/event-driven-architecture-the-path-to-increased-agility-and-high-expandability/)
+- [Event driven architecture](https://www.slideshare.net/stnor/event-driven-architecture-3395407)
 
 ## Azure
-- https://docs.microsoft.com/en-us/azure/architecture/
-
+- [Architecture guide](https://docs.microsoft.com/en-us/azure/architecture/)
 
 ## Technology
 
@@ -32,6 +32,8 @@
 - [Schema normalization](https://www.youtube.com/watch?v=I_rxqSJAj6U)
 
 #### NoSQL
+- [ELK stack](https://medium.com/hackernoon/elastic-stack-a-brief-introduction-794bc7ff7d4f)
+- [Neo4J & Python](https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89)
 
 #### HDFS
 - [Eric Sammer - HDFS Folder Structure](https://www.quora.com/What-is-the-best-directory-structure-to-store-different-types-of-logs-in-HDFS-over-time/answer/Eric-Sammer)
@@ -39,10 +41,6 @@
 - [Blue Granite - Data Lake organization](https://www.blue-granite.com/blog/ensure-a-successful-data-lake-implementation-through-organization)
 - [SQL Chick - Data Lake organization](https://www.sqlchick.com/)
 - [File storage governance model](http://tdan.com/a-conceptual-meta-model-for-unstructured-data/5087)
-
-#### Other
-- [ELK stack](https://medium.com/hackernoon/elastic-stack-a-brief-introduction-794bc7ff7d4f)
-- [Neo4J & Python](https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89)
 
 ### Processing 
 
@@ -58,6 +56,8 @@
 - [Databricks - CICD](https://databricks.com/blog/2017/10/30/continuous-integration-continuous-delivery-databricks.html)
 - [Databricks - Importing notebooks](https://forums.databricks.com/questions/1861/importing-functions-from-other-notebooks.html)
 - [Databricks - Notebook workflows](https://docs.databricks.com/user-guide/notebooks/notebook-workflows.html)
+- [DataGuy - Secrets in databricks](https://thedataguy.blog/tag/databricks/)
+
 
 #### Other
 - [Introduction to NiFi](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
@@ -123,10 +123,14 @@
 - [Project Euler](projecteuler.com)
 - [Hacka???]()
 
-# AI
+## DevOps
+- [DevOps introduction](https://resources.collab.net/devops-101/what-is-devops)
+- [DevOps - Pipeline YAML](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema)
+- [DevOps - Github](https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml)
+- [DevOps - Python project](https://www.youtube.com/watch?v=A0gpZCwJA5Q)
+- [Github badges I](https://medium.freecodecamp.org/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2)
+- [Github badges II](https://naereen.github.io/badges/)
+- [Trunk based development](https://trunkbaseddevelopment.com/)
 
-## Blogs
-
-
-# Companies
+# Company blogs
 - https://medium.com/netflix-techblog
