@@ -1,6 +1,4 @@
-# Data Engineering
-
-## General
+## Data Engineering
 
 - [Data Engineering Introduction](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
 - [Data Engineering cookbook](https://github.com/andkret/Cookbook)
