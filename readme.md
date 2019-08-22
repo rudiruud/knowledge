@@ -30,8 +30,14 @@
 - [Schema normalization](https://www.youtube.com/watch?v=I_rxqSJAj6U)
 
 #### NoSQL
-- [ELK stack](https://medium.com/hackernoon/elastic-stack-a-brief-introduction-794bc7ff7d4f)
+- [MongoDB - Introduction](https://www.guru99.com/what-is-mongodb.html#4)
+- [MongoDB - PowerBI](https://dzone.com/articles/real-time-analytics-on-mongodb-data-in-power-bi)
+- [ELK - Introduction I](https://medium.com/hackernoon/elastic-stack-a-brief-introduction-794bc7ff7d4f)
+- [ELK - Introduction II](https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html)
+- [ELK - Logstash](https://www.elastic.co/products/logstash)
+- [ELK - Architecture](https://www.elastic.co/pdf/architecture-best-practices.pdf)
 - [Neo4J & Python](https://medium.com/labcodes/graph-databases-talking-about-your-data-relationships-with-python-b438c689dc89)
+- [Cassandra introduction](https://medium.com/@mustwin/cassandra-from-a-relational-world-7bbdb0a9f1d)
 
 #### HDFS
 - [Eric Sammer - HDFS Folder Structure](https://www.quora.com/What-is-the-best-directory-structure-to-store-different-types-of-logs-in-HDFS-over-time/answer/Eric-Sammer)
@@ -66,6 +72,7 @@
 ### Hardware
 - [Disk IO](https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017)
 - [Containerizaiton 101](https://medium.com/faun/the-missing-introduction-to-containerization-de1fbb73efc5)
+- [Podcast on Hardware](https://anchor.fm/andreaskayy/embed/episodes/Why-the-hardware-and-the-GPU-is-super-important--PoDS-030-e23rig)
 
 ### Other
 - [Airflow tutorial](https://github.com/hgrif/airflow-tutorial)
@@ -129,6 +136,9 @@
 - [Github badges I](https://medium.freecodecamp.org/how-to-use-badges-to-stop-feeling-like-a-noob-d4e6600d37d2)
 - [Github badges II](https://naereen.github.io/badges/)
 - [Trunk based development](https://trunkbaseddevelopment.com/)
+
+## Scripting
+- [Bash](
 
 # Company blogs
 - https://medium.com/netflix-techblog
